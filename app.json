@@ -1,5 +1,5 @@
 {
-  "name":"FLASH-MD",
+  "name":"SNAPE-MD",
   "description":"An easy and simple WhatsApp bot developed by France King",
   "keywords":[
     "bot",
@@ -7,7 +7,7 @@
     "baileys",
     "whatsapp"
   ],
-  "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+  "logo":"https://telegra.ph/file/a512681ac12882566c520.jpg",
   "repository":"https://github.com/France-King1/Flash-Md",
   "succes_url":"/",
 "stack":"container",
@@ -77,16 +77,16 @@
     "OWNER_NAME":
     {
 
-    "desc": "Your Name",
+    "desc": "Your name",
     "required": false,
-    "value": "France King"
+    "value": "SNAPE"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254751284190"
+    "value": "923142212383"
   },
     "WARN_COUNT":
   {
